@@ -1,0 +1,40 @@
+/*
+*Sophie Marini
+*Due Date
+*Super hero assignment
+*/
+
+/*The universal selector*/
+
+*{
+
+}
+
+/* Body attributes here */
+
+body {
+background-color:pink;
+    
+font-family: Arial, Helvetica, sans-serif;
+    
+} 
+h1 {
+    background-color:lime;}
+p {
+    background-color:white;
+    color: rebeccapurple;
+    color: rebeccapurple;
+}
+
+
+#multiple {width:200px; height:100px; float:right;}
+#two {width:200px; height:100px; float:left;}
+header {background-color:aqua}
+main {background-color: plum}
+footer {background-color:hotpink}
+
+h1{
+    font-size: 400%;
+    text-align:  center;  
+    text-decoration: underline overline;
+}
